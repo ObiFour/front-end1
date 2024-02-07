@@ -1,0 +1,39 @@
+{
+    "buyers": [{
+        "id" : 1,
+        "firstName": "John",
+        "secondName" : "Doe",
+        "email" : "John.Doe@email.com",
+        "telephone" : "07837487"
+    },{
+        "id" : 2,
+        "firstName": "Bob",
+        "secondName" : "homer",
+        "email" : "John.Doe@email.com",
+        "telephone" : "07837487"
+    },{
+        "id" : 3,
+        "firstName": "John",
+        "secondName" : "Doe",
+        "email" : "John.Doe@email.com",
+        "telephone" : "07837487"
+    }],
+    "sellers": [{
+        "id" : 1, 
+        "firstName": "Jane",
+        "secondName" : "Doe",
+        "email" : "Jane.Doe@email.com",
+        "telephone" : "0123456789"
+    }],
+    "properties" : [{
+        "id" : 1,
+        "details" : "3-bedroom, semi-detached",
+        "price" : "£350,000", 
+        "address" : {
+            "address" : "house no, road, street", 
+            "city" : "city",
+            "county" : "greater manchester",
+            "postCode" : "code"
+            }
+    }]
+}
